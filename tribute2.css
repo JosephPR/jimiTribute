@@ -1,0 +1,35 @@
+body{
+    background: url("https://i.imgur.com/JHR4qgl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color:transparent !important; 
+    color: blueviolet;
+    font-family: 'Vidaloka', serif !important;
+   
+}
+.display-2{
+   padding-left: 90px;
+   
+}
+
+.lead{
+    padding-left: 340px;
+}
+
+h3{
+
+    font-family: 'Gochi Hand', cursive !important;
+
+}
+
+.row-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  
