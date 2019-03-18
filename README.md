@@ -1,3 +1,3 @@
 # jimiTribute
 Homage to Jimi Hendrix
-[TributePage](https://iknowjs.x10host.com/jimitribute)
+[TributePage](http://www.iknowjs.x10host.com/JimiTribute/tribute2.html)
